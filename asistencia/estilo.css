@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+
+.container-clock {
+  display: flex;
+  align-items: center;
+  background-color: black;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  max-width: 300px; /* ajusta el valor según tus necesidades */
+}
+
+.container-clock h1 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  margin-right: 2.5rem; /* Agregamos un margen derecho para separarlo del texto */
+  color: #39ff14;
+}
+
+
+.container-clock p{
+  color: #39ff14;
+}
